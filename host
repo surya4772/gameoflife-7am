@@ -1,0 +1,5 @@
+DEV ansible_ssh_host=54.183.227.121 ansible_ssh-user=root
+TEST ansible_ssh_host=54.183.227.121 ansible_ssh-user=root
+UAT ansible_ssh_host=54.183.227.121 ansible_ssh-user=root
+PRE-PROD ansible_ssh_host=54.183.227.121 ansible_ssh-user=root
+PROD ansible_ssh_host=54.183.227.121 ansible_ssh-user=root
