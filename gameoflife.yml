@@ -18,7 +18,7 @@
         artifact_id: gameoflife
         version: 0.0.3
         extension: war
-        repository_url: http://54.193.87.191:8081/nexus/content/repositories/releases/
+        repository_url: http://54.176.232.63:8081/nexus/content/repositories/releases/
         username: "{{ user }}"
         password: "{{ pass }}"
         dest: /tmp/gamefolder/gameoflife.war
